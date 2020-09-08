@@ -24,15 +24,15 @@ cite {
 	margin: 50px 50px 50px 50px;
 }
 
-@media only screen and (max-width: 890px) {
-	#image-div {
-		background-color: #9e9c9c;
-	}
-	img {
-		max-width: 100%;
-		height: auto;
-	}
+img {
+	width: 100%;
+	height: auto;
+	max-width: 625px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
 }
+	}
 
 #tribute-info {
 	text-align: left;
@@ -51,21 +51,6 @@ ul {
 li {
 	margin: 16px 0;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 #footer-div {
 	text-align: center;
